@@ -122,6 +122,8 @@ Helped secure new international contracts by serving as the German-speaking tech
 ### 📫 Get in Touch
 <p>
   <a href="https://flognity.com" target="_blank"><b>🌐 Visit my website:</b> flognity.com</a><br>
+  <a href="https://mapleandsombrero.ca/" target="_blank"><b>🛍️ Visit my Store:</b> mapleandsombrero.ca/</a><br>
+  <a href="https://flognitymedia.com/" target="_blank"><b>🏢 Visit Business Website:</b> flognitymedia.com</a><br>
   <a href="mailto:flognity@gmail.com"><b>✉️ Email:</b> flognity@gmail.com</a><br>
-  <a href="https://www.linkedin.com/in/flognity" target="_blank"><b>💼 LinkedIn:</b> linkedin.com/in/flognity</a>
+  <a href="https://www.linkedin.com/in/florian-wilhelm/" target="_blank"><b>💼 LinkedIn:</b> linkedin.com/in/flognity</a>
 </p>

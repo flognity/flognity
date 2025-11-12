@@ -89,6 +89,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 <p>
     <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/svn-809CCF?logo=subversion&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
@@ -124,19 +125,124 @@ Bridging industry and sustainability through real-time systems, open-source inno
 ### Experience
 #### 🏭 USNR – Industrial Optimization Software
 
-**Senior Software Developer** • Salmon Arm, British Columbia, Canada  
+**Senior Software Developer** • Salmon Arm, British Columbia, Canada
+
 Developing **C/C++ optimization and interfaces to control systems** for sawmill automation deployed in **50+ production sites across four continents**.
 Working on **distributed, performance-critical systems** that transform real-time sensor data into production decisions within sub-200 ms.
 
 **Key Contributions**
-1. Designed and implemented distributed multi-computer optimizers ensuring sub-200 ms real-time decision cycles.
-2. Modeled high-resolution lumber scanning and defect detection algorithms improving yield and throughput.
-3. Modernized a legacy C++ codebase into a modular architecture integrated with new UI layers and diagnostics tools.
-4. Built and maintained CI/CD pipelines in Azure DevOps for automated builds, testing, and artifact deployment.
-5. Implemented unit and performance testing using Visual Studio tools to guarantee real-time reliability.
-6. Collaborated with a cross-functional team of 15+ developers across Canada, the U.S., and Europe.
-7. Served as German-speaking technical lead, supporting European client installs and contributing to new contracts.
-8. Led code reviews, system design discussions, and mentoring for new developers on distributed system design.
+1. **Designed and implemented distributed multi-computer optimizers (C++)** 
+
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+    - Architected modular optimization algorithms to run across multiple networked computers, balancing load and minimizing latency.
+    - Implemented robust inter-process communication protocols to ensure data integrity and synchronization.
+    - Conducted performance profiling and optimization to meet stringent real-time requirements, **ensuring sub-200 ms decision cycles**.
+
+2. **Developed diagnostics acquisition modules to collect and analyze optimization process data (C++)**
+
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+
+    - Analyzed what user want to diagnose to verify correct solution decisions of the optimizer.
+    - Developed multi-threaded communication and data processing modules to collect information during the optimization process.
+    - Optimized data structures and algorithms to minimize latency and maximize throughput.
+    - Helped to develop UX screens together with the UI-Team to display and filter diagnostics
+
+3. Modeled high-resolution lumber scanning and defect detection algorithms improving yield and throughput.
+
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+    - Implemented advanced algorithms to detect holes to determine optimal clamping positions avoiding mechanical jambs to reduce downtime.
+    - Developed advanced sliver detection algorithms to smoothen out scanner noise and improve optimization based on geometric data.
+    - Collaborated with hardware teams to integrate new high-resolution scanners into existing systems.
+    - Conducted extensive testing and validation to ensure accuracy and reliability of defect detection.
+    - Achieved significant improvements in lumber yield and processing speed.
+
+4. Modernized a legacy C++ codebase into a modular architecture integrated with new UI layers and diagnostics tools.
+
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
+    <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
+    <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+    - Refactored monolithic C++ code into modular components with clear interfaces, improving maintainability and scalability.
+    - Integrated modern UI layers using C#, .NET, and Vue.js to enhance user experience and accessibility of diagnostics data.
+    - Maintained and updated documentation using LaTeX to facilitate knowledge transfer and onboarding of new service personel to set up and maintain sawmill systems.
+    - Ensured backward compatibility while introducing new features and improvements.
+    - Significantly reduced technical debt and improved development velocity.
+
+5. Built and maintained CI/CD pipelines in Azure DevOps for automated builds, testing, and artifact deployment.
+
+    <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+    - Designed and implemented CI/CD pipelines using Azure DevOps to automate build, test, and deployment processes.
+    - Configured automated testing frameworks to ensure code quality and reliability.
+    - Managed artifact storage and versioning to streamline release management.
+    - Reduced deployment times and minimized human error through automation.
+    - Facilitated rapid iteration and delivery of new features and bug fixes.
+    - Collaborated with cross-functional teams to align CI/CD practices with development workflows.
+
+6. Implemented unit and performance testing using Visual Studio tools to guarantee real-time reliability.
+
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+    <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+
+    - Developed comprehensive unit tests using Visual Studio testing frameworks to validate individual components.
+    - Created performance tests to measure and optimize system responsiveness under real-time constraints.
+    - Identified and resolved performance bottlenecks to meet stringent latency requirements.
+    - Enhanced overall system reliability and robustness through rigorous testing practices.
+
+7. Collaborated with a cross-functional team of 15+ developers across Canada, the U.S., and Europe.
+
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+    - Participated in agile development processes, including sprint planning, stand-ups, and retrospectives.
+    - Coordinated with UI/UX designers, QA engineers, and product managers to deliver high-quality software solutions.
+    - Fostered effective communication and collaboration across geographically distributed teams.
+    - Contributed to knowledge sharing and best practices within the team.
+
+8. Served as German-speaking technical lead, supporting European client installs and contributing to new contracts.
+
+    - Acted as the primary technical liaison for German-speaking clients during system installations and support.
+    - Provided expertise and guidance to ensure successful deployments and client satisfaction.
+    - Assisted in securing new contracts by demonstrating technical capabilities and addressing client needs.
+
+9. Led code reviews, system design discussions, and mentoring for new developers on distributed system design.
+
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+
+    - Conducted code reviews to ensure adherence to coding standards and best practices.
+    - Facilitated system design discussions to promote robust and scalable architectures.
+    - Mentored junior developers on distributed system design principles and development practices.
+    - Promoted a culture of continuous learning and improvement within the development team.
 
 #### 🏦 Helaba – Landesbank Hessen-Thüringen  
 **Application Developer (Front Office IT)** • Frankfurt, Germany
@@ -154,6 +260,7 @@ Developed and modernized financial systems to support regulatory compliance, tra
     <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff" />
+    <img src="https://img.shields.io/badge/svn-809CCF?logo=subversion&logoColor=white" />
 
    - Created a secure intranet web tool to track IT access requests, approvals, and automated provisioning for critical systems.
    - Rebuilt and extended the bank’s IT-software-request platform to streamline approval, testing, and deployment workflows.
@@ -164,6 +271,7 @@ Developed and modernized financial systems to support regulatory compliance, tra
     <img src="https://img.shields.io/badge/IBM-Integration Bus-000000?logo=ibm&logoColor=white" />
     <img src="https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
+    <img src="https://img.shields.io/badge/svn-809CCF?logo=subversion&logoColor=white" />
 
    - Implemented fully automated reporting interfaces that generated and transmitted regulatory data “as soon as technically possible,” replacing manual submissions.  
    - Integrated trading platforms with Approved Publication Arrangements (APA) to ensure compliance with MiFID II transparency rules.
@@ -176,6 +284,7 @@ Developed and modernized financial systems to support regulatory compliance, tra
     <img src="https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54" />
     <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
+    <img src="https://img.shields.io/badge/svn-809CCF?logo=subversion&logoColor=white" />
 
    - Integrated trading, settlement, and accounting systems to eliminate redundant manual trade entries and ensure data consistency.
    - Quickly learned and applied **proprietary programming languages** used by vendor platforms to achieve deep system integration.
@@ -188,6 +297,8 @@ Developed and modernized financial systems to support regulatory compliance, tra
     <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"  />
     <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/svn-809CCF?logo=subversion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 
    - Oversaw interface redevelopment during a major front-office software upgrade, ensuring compatibility with modern APIs and regulatory standards.  
    - Conducted code reviews, enforced coding and testing standards, and supported Docker-based test environment setup. 

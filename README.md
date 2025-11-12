@@ -49,6 +49,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 ---
 
 ### Tech Stack
+
 <p>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
@@ -64,6 +65,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 </p>
 
 #### Frameworks & Package Managers
+
 <p>
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" />
     <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
@@ -79,6 +81,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 </p>
 
 #### Databases
+
 <p>
     <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff" />
@@ -86,6 +89,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 </p>
 
 #### CI/CD, Version Control & Testing
+
 <p>
     <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
@@ -97,6 +101,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 </p>
 
 #### Collaboration & Documentation
+
 <p>
     <img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" />
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
@@ -107,6 +112,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 </p>
 
 #### Cloud & Hosting
+
 <p>
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe" />
@@ -127,8 +133,8 @@ Bridging industry and sustainability through real-time systems, open-source inno
 
 **Senior Software Developer** • Salmon Arm, British Columbia, Canada
 
-Developing **C/C++ optimization and interfaces to control systems** for sawmill automation deployed in **50+ production sites across four continents**.
-Working on **distributed, performance-critical systems** that transform real-time sensor data into production decisions within sub-200 ms.
+Developing **C/C++ optimization and control interfaces** for sawmill automation deployed in **50+ production sites across four continents**.  
+Working on **distributed, performance-critical systems** that convert real-time sensor data into production decisions within **sub-200 ms**.
 
 **Key Contributions**
 1. **Designed and implemented distributed multi-computer optimizers (C++)** 
@@ -152,11 +158,10 @@ Working on **distributed, performance-critical systems** that transform real-tim
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 
-
-    - Analyzed what user want to diagnose to verify correct solution decisions of the optimizer.
+    - Analyzed what users need to diagnose in order to verify optimizer decisions.
     - Developed multi-threaded communication and data processing modules to collect information during the optimization process.
     - Optimized data structures and algorithms to minimize latency and maximize throughput.
-    - Helped to develop UX screens together with the UI-Team to display and filter diagnostics
+    - Worked with the UI team to design and implement diagnostic views and filters.
 
 3. Modeled high-resolution lumber scanning and defect detection algorithms improving yield and throughput.
 
@@ -165,8 +170,8 @@ Working on **distributed, performance-critical systems** that transform real-tim
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 
-    - Implemented advanced algorithms to detect holes to determine optimal clamping positions avoiding mechanical jambs to reduce downtime.
-    - Developed advanced sliver detection algorithms to smoothen out scanner noise and improve optimization based on geometric data.
+    - Implemented advanced algorithms to detect holes to determine optimal clamping positions avoiding mechanical jams to reduce downtime.
+    - Developed advanced sliver detection algorithms to smoothen out scanner noise and improve optimization based on geometric data points.
     - Collaborated with hardware teams to integrate new high-resolution scanners into existing systems.
     - Conducted extensive testing and validation to ensure accuracy and reliability of defect detection.
     - Achieved significant improvements in lumber yield and processing speed.
@@ -190,7 +195,7 @@ Working on **distributed, performance-critical systems** that transform real-tim
 
     - Refactored monolithic C++ code into modular components with clear interfaces, improving maintainability and scalability.
     - Integrated modern UI layers using C#, .NET, and Vue.js to enhance user experience and accessibility of diagnostics data.
-    - Maintained and updated documentation using LaTeX to facilitate knowledge transfer and onboarding of new service personel to set up and maintain sawmill systems.
+    - Maintained and updated documentation using LaTeX to facilitate knowledge transfer and onboarding of new service personnel to set up and maintain sawmill systems.
     - Ensured backward compatibility while introducing new features and improvements.
     - Significantly reduced technical debt and improved development velocity.
 
@@ -336,6 +341,7 @@ Creating videos on my journey to find happiness, self-fulfillment and growth. My
 ---
 
 ### Get in Touch
+
 <p>
   <a href="https://flognity.com" target="_blank"><b>🌐 Visit my website:</b> flognity.com</a><br>
   <a href="https://mapleandsombrero.ca/" target="_blank"><b>🛍️ Visit my Store:</b> mapleandsombrero.ca/</a><br>

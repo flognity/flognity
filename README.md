@@ -35,6 +35,14 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 
 ---
 
+### Highlights
+- 10+ years of software development experience (enterprise & industrial automation)
+- Expert in C, C++, SQL, and real-time optimization
+- Bilingual (English/German) with international project leadership
+- Founder of [Maple & Sombrero](https://mapleandsombrero.ca/) and [Flognity Media & Software Solutions](https://flognitymedia.com/)
+
+---
+
 ### Tech Stack
 <p>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
@@ -92,7 +100,7 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
     <img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" />
 </p>
 
-#### Could & Hosting
+#### Cloud & Hosting
 <p>
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white" />
     <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe" />
@@ -192,4 +200,10 @@ Helped secure new international contracts by serving as the German-speaking tech
   <a href="https://flognitymedia.com/" target="_blank"><b>🏢 Visit Business Website:</b> flognitymedia.com</a><br>
   <a href="mailto:flognity@gmail.com"><b>✉️ Email:</b> flognity@gmail.com</a><br>
   <a href="https://www.linkedin.com/in/florian-wilhelm/" target="_blank"><b>💼 LinkedIn:</b> linkedin.com/in/florian-wilhelm</a>
+</p>
+
+ ---
+
+<p align="center">
+  <sub>Made by Florian Wilhelm in Salmon Arm, BC, Canada 🍁</sub>
 </p>

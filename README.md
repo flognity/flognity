@@ -102,12 +102,12 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 
 ### 🚀 Featured Projects
 
-#### ⚡ [Carbon Aware Scheduler](https://github.com/flognity/carbon-aware-scheduler)
+#### ⚡ [Carbon Aware Scheduler](https://github.com/flognity/carbon-aware-scheduler-lab)
 An open-source framework that schedules compute tasks during low-carbon energy windows.  
 Built in **Python + C++ (pybind11)** with real-time data from **ElectricityMap** and **WattTime** APIs.  
 Includes a command-line interface, visualization dashboard, and modular provider system.
 
-#### 🍁 [Maple & Sombrero](https://mapleandsombrero.com)
+#### 🍁 [Maple & Sombrero](https://mapleandsombrero.ca)
 A proudly Canadian apparel brand celebrating regional pride and ethical production.  
 Built with **Shopify**, **HTML/CSS**, and **custom SEO-optimized product pages** in English and Quebec French.  
 All designs are printed in Ontario and reflect Canadian craftsmanship and values.

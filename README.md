@@ -41,6 +41,11 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 - Bilingual (English/German) with international project leadership
 - Founder of [Maple & Sombrero](https://mapleandsombrero.ca/) and [Flognity Media & Software Solutions](https://flognitymedia.com/)
 
+### Core Expertise
+- Distributed & Real-Time Systems • Performance Optimization • Systems Architecture  
+- CI/CD Pipeline Design • DevOps Automation (Azure, Jenkins, SonarQube)  
+- C++ and C# Backend Development • PLC and Sensor Integration  
+
 ---
 
 ### Tech Stack
@@ -109,17 +114,33 @@ Outside of work, I run **Flognity Media & Software Solutions**, where I develop 
 
 ---
 
+### Career Impact
+Delivered optimization software deployed in 50+ sawmills worldwide and automation tools used by 150+ financial traders. 
+
+Bridging industry and sustainability through real-time systems, open-source innovation, and cross-domain experience in both manufacturing and finance.
+
+---
+
 ### Experience
-#### 🏭 USNR – Industrial Optimization Software  
+#### 🏭 USNR – Industrial Optimization Software
+
 **Senior Software Developer** • Salmon Arm, British Columbia, Canada  
-Building next-generation optimization and control systems for sawmills used across North America and Europe.  
-- Designed and implemented algorithms for lumber scanning and defect detection in **C++**.  
-- Maintained and improved the **MillGenius**, **Sawmill Suite** and **MillExpert** software used in real-time production environments.  
-- Acted as the **German-speaking technical lead**, helping secure new international contracts.  
-- Delivered on-site installations and system tuning in Canada, the U.S., and Germany.
+Developing **C/C++ optimization and interfaces to control systems** for sawmill automation deployed in **50+ production sites across four continents**.
+Working on **distributed, performance-critical systems** that transform real-time sensor data into production decisions within sub-200 ms.
+
+**Key Contributions**
+1. Designed and implemented distributed multi-computer optimizers ensuring sub-200 ms real-time decision cycles.
+2. Modeled high-resolution lumber scanning and defect detection algorithms improving yield and throughput.
+3. Modernized a legacy C++ codebase into a modular architecture integrated with new UI layers and diagnostics tools.
+4. Built and maintained CI/CD pipelines in Azure DevOps for automated builds, testing, and artifact deployment.
+5. Implemented unit and performance testing using Visual Studio tools to guarantee real-time reliability.
+6. Collaborated with a cross-functional team of 15+ developers across Canada, the U.S., and Europe.
+7. Served as German-speaking technical lead, supporting European client installs and contributing to new contracts.
+8. Led code reviews, system design discussions, and mentoring for new developers on distributed system design.
 
 #### 🏦 Helaba – Landesbank Hessen-Thüringen  
-**Application Developer (Front Office IT)** • Frankfurt, Germany  
+**Application Developer (Front Office IT)** • Frankfurt, Germany
+
 Developed and modernized financial systems to support regulatory compliance, trading operations, and IT workflows.  
 
 **Key Achievements**
@@ -190,6 +211,16 @@ All designs are printed in Ontario and reflect Canadian craftsmanship and values
 Contributing to **sawmill automation** software used across North America and Europe.  
 Focus areas: optimization algorithms, multi-threaded C++ systems, and multilingual client support.  
 Helped secure new international contracts by serving as the German-speaking technical lead.
+
+#### 🎥 [YouTube Channel – Flognity](https://youtube.com/flognity)
+Creating videos on my journey to find happiness, self-fulfillment and growth. My channel focuses on self-development, small business, and life in Canada.
+
+---
+
+### Volunteer Highlights
+- [Wildlife Rehabilitation Volunteer](https://youtu.be/lrzDMw5Fca8?si=9L2WqUp8f1_JRzGj) – Aspen Valley Wildlife Sanctuary, Ontario  
+- [Research Internship](https://floinkansas.blogspot.com/2014/08/hits-beam-time-and-trip-to-cosmosphere.html) – Kansas State University ([DAAD RISE Worldwide](https://www.daad.de/rise/en/rise-worldwide/) Scholar)  
+- [President’s Volunteer Service Award](https://wilhelm-florian.blogspot.com/2011/08/american-conservation-experience.html) – Volunteer of the [American Conservation Experience](https://www.usaconservation.org/) in U.S. National Parks
 
 ---
 

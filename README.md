@@ -137,7 +137,7 @@ Developing **C/C++ optimization and control interfaces** for sawmill automation 
 Working on **distributed, performance-critical systems** that convert real-time sensor data into production decisions within **sub-200 ms**.
 
 **Key Contributions**
-1. **Designed and implemented distributed multi-computer optimizers (C++)** 
+1. **Designed and implemented distributed multi-computer optimizers** 
 
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
@@ -148,7 +148,7 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Implemented robust inter-process communication protocols to ensure data integrity and synchronization.
     - Conducted performance profiling and optimization to meet stringent real-time requirements, **ensuring sub-200 ms decision cycles**.
 
-2. **Developed diagnostics acquisition modules to collect and analyze optimization process data (C++)**
+2. **Developed diagnostics acquisition modules to collect and analyze optimization process data**
 
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
@@ -163,8 +163,9 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Optimized data structures and algorithms to minimize latency and maximize throughput.
     - Worked with the UI team to design and implement diagnostic views and filters.
 
-3. Modeled high-resolution lumber scanning and defect detection algorithms improving yield and throughput.
+3. **Modeled high-resolution lumber scanning and defect detection algorithms improving yield and throughput**
 
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
@@ -176,8 +177,9 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Conducted extensive testing and validation to ensure accuracy and reliability of defect detection.
     - Achieved significant improvements in lumber yield and processing speed.
 
-4. Modernized a legacy C++ codebase into a modular architecture integrated with new UI layers and diagnostics tools.
+4. **Modernized a legacy C++ codebase into a modular architecture integrated with new UI layers and diagnostics tools.**
 
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
     <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" />
@@ -199,7 +201,7 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Ensured backward compatibility while introducing new features and improvements.
     - Significantly reduced technical debt and improved development velocity.
 
-5. Built and maintained CI/CD pipelines in Azure DevOps for automated builds, testing, and artifact deployment.
+5. **Built and maintained CI/CD pipelines in Azure DevOps for automated builds, testing, and artifact deployment.**
 
     <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
@@ -212,7 +214,7 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Facilitated rapid iteration and delivery of new features and bug fixes.
     - Collaborated with cross-functional teams to align CI/CD practices with development workflows.
 
-6. Implemented unit and performance testing using Visual Studio tools to guarantee real-time reliability.
+6. **Implemented unit and performance testing using Visual Studio tools to guarantee real-time reliability.**
 
     <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
     <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff" />
@@ -223,7 +225,7 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Identified and resolved performance bottlenecks to meet stringent latency requirements.
     - Enhanced overall system reliability and robustness through rigorous testing practices.
 
-7. Collaborated with a cross-functional team of 15+ developers across Canada, the U.S., and Europe.
+7. **Collaborated with a cross-functional team of 15+ developers across Canada, the U.S., and Europe.**
 
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
@@ -233,13 +235,13 @@ Working on **distributed, performance-critical systems** that convert real-time 
     - Fostered effective communication and collaboration across geographically distributed teams.
     - Contributed to knowledge sharing and best practices within the team.
 
-8. Served as German-speaking technical lead, supporting European client installs and contributing to new contracts.
+8. **Served as German-speaking technical lead, supporting European client installs and contributing to new contracts.**
 
     - Acted as the primary technical liaison for German-speaking clients during system installations and support.
     - Provided expertise and guidance to ensure successful deployments and client satisfaction.
     - Assisted in securing new contracts by demonstrating technical capabilities and addressing client needs.
 
-9. Led code reviews, system design discussions, and mentoring for new developers on distributed system design.
+9. **Led code reviews, system design discussions, and mentoring for new developers on distributed system design.**
 
     <img src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=fff" />
     <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
@@ -271,7 +273,7 @@ Developed and modernized financial systems to support regulatory compliance, tra
    - Rebuilt and extended the bank’s IT-software-request platform to streamline approval, testing, and deployment workflows.
    - Ensured compliance with new regulatory tracking requirements across multiple departments.  
 
-2. **Automated pre-trade and post-trade transparency reporting workflows (Perl, Python, SQL, IBM Integration Bus)**
+2. **Automated pre-trade and post-trade transparency reporting workflows**
 
     <img src="https://img.shields.io/badge/IBM-Integration Bus-000000?logo=ibm&logoColor=white" />
     <img src="https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white" />
